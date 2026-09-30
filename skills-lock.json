@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "strategic-compact": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/strategic-compact/SKILL.md",
+      "computedHash": "6ac2f97bfa282fc9b2d1e4cdf0f395dfb1cffe47660b6a3e30cbc2099feb7a04"
+    }
+  }
+}
